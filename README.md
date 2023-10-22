@@ -1,7 +1,7 @@
 <div align="center">
 
-# **Proyecto Nro 1 - Sharcks attacs** </div>
-![Imagen](https://ibb.co/zmJQJZZ)
+# **Proyecto Nro 1 - Sharcks attacks** </div>
+![Imagen](https://i.postimg.cc/6qxVTBVT/Sharks.webp)](https://postimg.cc/dknZxPxK)
 
 ---
 
