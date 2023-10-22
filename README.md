@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Proyecto Nro 1 - Sharcks attacks** </div>
+# **Proyecto Nro 1 - Sharks attaks** </div>
 ![Imagen](https://i.postimg.cc/6qxVTBVT/Sharks.webp)](https://postimg.cc/dknZxPxK)
 
 ---
