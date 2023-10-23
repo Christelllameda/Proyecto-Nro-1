@@ -22,7 +22,7 @@ Aplicamos funciones para la limpieza de datos, por ejemplo en la columna 'Sex' s
 
 Eliminamos las filas que no poseían la fecha del ataque, ya que para mi criterio y objetivo, era un dato necesario.
 
-Elaboré una función de acuerdo a la fecha del accidente, para saber la estación del año en la que sucedió.
+Elaboré una función de acuerdo a la fecha del accidente y el país, para saber la estación del año en la que sucedió y la agregamos en una columna nueva llamada Season.
 
 Luego de nuestro análisis, podemos concluir que:
 
@@ -32,7 +32,7 @@ Luego de nuestro análisis, podemos concluir que:
 -Edad promedio: 28 años
 -Fallecidos USA: 61
 -Fallecidos Australia: 147
--Estación donde sucedieron mas ataques: Primavera
+-Estación donde sucedieron mas ataques: En USA ha sido durante el verano y en Australia en primavera.
  ** </div>
 
 &nbsp;
